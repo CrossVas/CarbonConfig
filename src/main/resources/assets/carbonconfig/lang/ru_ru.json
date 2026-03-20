@@ -47,6 +47,7 @@
 	"gui.carbonconfig.dependency.license": "Лицензия: ",
 	"gui.carbonconfig.dependency.open_page": "Открыть страницу мода",
 	"gui.carbonconfig.dependency.not_provided": "Страница мода: не указана",
+ "gui.carbonconfig.dependency.open_issue": "Открыть баг-трекер",
 	"gui.carbonconfig.dependency.missing": "Не установлен",
 	"gui.carbonconfig.dependency.config": "Открыть настройки",
 	"gui.carbonconfig.dependency.mods": "Открыть папку модов",
